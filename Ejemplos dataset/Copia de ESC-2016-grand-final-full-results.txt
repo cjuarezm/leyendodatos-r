@@ -1,0 +1,1067 @@
+Row ID	From country	To country	Jury Points	Televote Points
+1	Albania	Belgium	0	0
+2	Albania	Czech Republic	0	0
+3	Albania	The Netherlands	0	0
+4	Albania	Azerbaijan	0	0
+5	Albania	Hungary	1	1
+6	Albania	Italy	8	10
+7	Albania	Israel	3	0
+8	Albania	Bulgaria	4	8
+9	Albania	Sweden	0	3
+10	Albania	Germany	0	0
+11	Albania	France	10	0
+12	Albania	Poland	0	5
+13	Albania	Australia	12	12
+14	Albania	Cyprus	0	0
+15	Albania	Serbia	0	0
+16	Albania	Lithuania	0	4
+17	Albania	Croatia	0	0
+18	Albania	Russia	7	7
+19	Albania	Spain	6	0
+20	Albania	Latvia	0	0
+21	Albania	Ukraine	0	6
+22	Albania	Malta	2	0
+23	Albania	Georgia	0	0
+24	Albania	Austria	0	0
+25	Albania	United Kingdom	5	0
+26	Albania	Armenia	0	2
+27	Armenia	Belgium	4	0
+28	Armenia	Czech Republic	1	0
+29	Armenia	The Netherlands	0	0
+30	Armenia	Azerbaijan	0	0
+31	Armenia	Hungary	0	3
+32	Armenia	Italy	0	0
+33	Armenia	Israel	0	0
+34	Armenia	Bulgaria	7	0
+35	Armenia	Sweden	0	2
+36	Armenia	Germany	0	0
+37	Armenia	France	12	7
+38	Armenia	Poland	0	1
+39	Armenia	Australia	5	0
+40	Armenia	Cyprus	6	6
+41	Armenia	Serbia	0	0
+42	Armenia	Lithuania	0	0
+43	Armenia	Croatia	0	0
+44	Armenia	Russia	2	12
+45	Armenia	Spain	3	0
+46	Armenia	Latvia	0	0
+47	Armenia	Ukraine	0	10
+48	Armenia	Malta	8	5
+49	Armenia	Georgia	10	8
+50	Armenia	Austria	0	4
+51	Armenia	United Kingdom	0	0
+52	Australia	Belgium	12	12
+53	Australia	Czech Republic	0	0
+54	Australia	The Netherlands	3	0
+55	Australia	Azerbaijan	0	0
+56	Australia	Hungary	0	0
+57	Australia	Italy	0	0
+58	Australia	Israel	10	0
+59	Australia	Bulgaria	8	10
+60	Australia	Sweden	0	0
+61	Australia	Germany	0	0
+62	Australia	France	6	7
+63	Australia	Poland	0	0
+64	Australia	Cyprus	0	0
+65	Australia	Serbia	0	0
+66	Australia	Lithuania	7	1
+67	Australia	Croatia	1	0
+68	Australia	Russia	0	5
+69	Australia	Spain	5	2
+70	Australia	Latvia	0	0
+71	Australia	Ukraine	2	8
+72	Australia	Malta	0	6
+73	Australia	Georgia	0	0
+74	Australia	Austria	0	3
+75	Australia	United Kingdom	4	4
+76	Australia	Armenia	0	0
+77	Austria	Belgium	5	0
+78	Austria	Czech Republic	4	0
+79	Austria	The Netherlands	0	6
+80	Austria	Azerbaijan	0	0
+81	Austria	Hungary	0	0
+82	Austria	Italy	0	0
+83	Austria	Israel	0	0
+84	Austria	Bulgaria	0	5
+85	Austria	Sweden	8	7
+86	Austria	Germany	0	2
+87	Austria	France	7	1
+88	Austria	Poland	0	12
+89	Austria	Australia	12	3
+90	Austria	Cyprus	0	0
+91	Austria	Serbia	0	4
+92	Austria	Lithuania	1	0
+93	Austria	Croatia	6	0
+94	Austria	Russia	3	8
+95	Austria	Spain	0	0
+96	Austria	Latvia	0	0
+97	Austria	Ukraine	0	10
+98	Austria	Malta	10	0
+99	Austria	Georgia	0	0
+100	Austria	United Kingdom	0	0
+101	Austria	Armenia	2	0
+102	Azerbaijan	Belgium	0	0
+103	Azerbaijan	Czech Republic	0	0
+104	Azerbaijan	The Netherlands	0	0
+105	Azerbaijan	Hungary	4	7
+106	Azerbaijan	Italy	0	0
+107	Azerbaijan	Israel	3	6
+108	Azerbaijan	Bulgaria	8	8
+109	Azerbaijan	Sweden	0	0
+110	Azerbaijan	Germany	0	0
+111	Azerbaijan	France	0	4
+112	Azerbaijan	Poland	2	3
+113	Azerbaijan	Australia	7	2
+114	Azerbaijan	Cyprus	0	0
+115	Azerbaijan	Serbia	0	0
+116	Azerbaijan	Lithuania	5	0
+117	Azerbaijan	Croatia	0	0
+118	Azerbaijan	Russia	12	12
+119	Azerbaijan	Spain	1	0
+120	Azerbaijan	Latvia	0	0
+121	Azerbaijan	Ukraine	10	10
+122	Azerbaijan	Malta	6	5
+123	Azerbaijan	Georgia	0	1
+124	Azerbaijan	Austria	0	0
+125	Azerbaijan	United Kingdom	0	0
+126	Azerbaijan	Armenia	0	0
+127	Belarus	Belgium	4	0
+128	Belarus	Czech Republic	0	0
+129	Belarus	The Netherlands	0	0
+130	Belarus	Azerbaijan	2	8
+131	Belarus	Hungary	0	3
+132	Belarus	Italy	0	0
+133	Belarus	Israel	0	0
+134	Belarus	Bulgaria	1	4
+135	Belarus	Sweden	8	2
+136	Belarus	Germany	0	0
+137	Belarus	France	0	0
+138	Belarus	Poland	0	6
+139	Belarus	Australia	6	1
+140	Belarus	Cyprus	0	0
+141	Belarus	Serbia	0	0
+142	Belarus	Lithuania	10	0
+143	Belarus	Croatia	0	0
+144	Belarus	Russia	12	12
+145	Belarus	Spain	0	0
+146	Belarus	Latvia	0	5
+147	Belarus	Ukraine	7	10
+148	Belarus	Malta	5	0
+149	Belarus	Georgia	0	0
+150	Belarus	Austria	0	0
+151	Belarus	United Kingdom	0	0
+152	Belarus	Armenia	3	7
+153	Belgium	Czech Republic	1	0
+154	Belgium	The Netherlands	4	10
+155	Belgium	Azerbaijan	0	0
+156	Belgium	Hungary	0	0
+157	Belgium	Italy	10	0
+158	Belgium	Israel	2	0
+159	Belgium	Bulgaria	6	5
+160	Belgium	Sweden	0	1
+161	Belgium	Germany	0	0
+162	Belgium	France	8	8
+163	Belgium	Poland	0	12
+164	Belgium	Australia	12	4
+165	Belgium	Cyprus	0	0
+166	Belgium	Serbia	0	0
+167	Belgium	Lithuania	0	0
+168	Belgium	Croatia	0	0
+169	Belgium	Russia	0	6
+170	Belgium	Spain	0	0
+171	Belgium	Latvia	0	0
+172	Belgium	Ukraine	3	2
+173	Belgium	Malta	0	0
+174	Belgium	Georgia	7	0
+175	Belgium	Austria	5	3
+176	Belgium	United Kingdom	0	0
+177	Belgium	Armenia	0	7
+178	Bosnia & Herzegovina	Belgium	0	0
+179	Bosnia & Herzegovina	Czech Republic	6	0
+180	Bosnia & Herzegovina	The Netherlands	0	0
+181	Bosnia & Herzegovina	Azerbaijan	1	8
+182	Bosnia & Herzegovina	Hungary	0	1
+183	Bosnia & Herzegovina	Italy	0	0
+184	Bosnia & Herzegovina	Israel	0	0
+185	Bosnia & Herzegovina	Bulgaria	3	2
+186	Bosnia & Herzegovina	Sweden	0	0
+187	Bosnia & Herzegovina	Germany	0	0
+188	Bosnia & Herzegovina	France	7	4
+189	Bosnia & Herzegovina	Poland	0	0
+190	Bosnia & Herzegovina	Australia	10	3
+191	Bosnia & Herzegovina	Cyprus	0	0
+192	Bosnia & Herzegovina	Serbia	8	12
+193	Bosnia & Herzegovina	Lithuania	0	0
+194	Bosnia & Herzegovina	Croatia	4	10
+195	Bosnia & Herzegovina	Russia	5	6
+196	Bosnia & Herzegovina	Spain	0	0
+197	Bosnia & Herzegovina	Latvia	0	0
+198	Bosnia & Herzegovina	Ukraine	12	7
+199	Bosnia & Herzegovina	Malta	0	0
+200	Bosnia & Herzegovina	Georgia	0	0
+201	Bosnia & Herzegovina	Austria	0	5
+202	Bosnia & Herzegovina	United Kingdom	0	0
+203	Bosnia & Herzegovina	Armenia	2	0
+204	Bulgaria	Belgium	10	0
+205	Bulgaria	Czech Republic	0	0
+206	Bulgaria	The Netherlands	2	0
+207	Bulgaria	Azerbaijan	0	1
+208	Bulgaria	Hungary	0	0
+209	Bulgaria	Italy	0	0
+210	Bulgaria	Israel	0	2
+211	Bulgaria	Sweden	0	3
+212	Bulgaria	Germany	0	0
+213	Bulgaria	France	0	0
+214	Bulgaria	Poland	0	6
+215	Bulgaria	Australia	8	5
+216	Bulgaria	Cyprus	0	7
+217	Bulgaria	Serbia	5	0
+218	Bulgaria	Lithuania	1	0
+219	Bulgaria	Croatia	0	0
+220	Bulgaria	Russia	6	12
+221	Bulgaria	Spain	4	0
+222	Bulgaria	Latvia	0	0
+223	Bulgaria	Ukraine	0	10
+224	Bulgaria	Malta	7	0
+225	Bulgaria	Georgia	3	0
+226	Bulgaria	Austria	0	4
+227	Bulgaria	United Kingdom	0	0
+228	Bulgaria	Armenia	12	8
+229	Croatia	Belgium	0	0
+230	Croatia	Czech Republic	10	0
+231	Croatia	The Netherlands	0	0
+232	Croatia	Azerbaijan	0	0
+233	Croatia	Hungary	5	3
+234	Croatia	Italy	3	0
+235	Croatia	Israel	7	0
+236	Croatia	Bulgaria	0	1
+237	Croatia	Sweden	0	7
+238	Croatia	Germany	0	0
+239	Croatia	France	8	2
+240	Croatia	Poland	0	4
+241	Croatia	Australia	12	5
+242	Croatia	Cyprus	1	0
+243	Croatia	Serbia	2	12
+244	Croatia	Lithuania	0	0
+245	Croatia	Russia	6	8
+246	Croatia	Spain	0	0
+247	Croatia	Latvia	0	0
+248	Croatia	Ukraine	0	10
+249	Croatia	Malta	0	0
+250	Croatia	Georgia	0	0
+251	Croatia	Austria	0	6
+252	Croatia	United Kingdom	0	0
+253	Croatia	Armenia	4	0
+254	Cyprus	Belgium	0	0
+255	Cyprus	Czech Republic	0	0
+256	Cyprus	The Netherlands	0	0
+257	Cyprus	Azerbaijan	2	0
+258	Cyprus	Hungary	4	4
+259	Cyprus	Italy	3	0
+260	Cyprus	Israel	5	0
+261	Cyprus	Bulgaria	0	12
+262	Cyprus	Sweden	0	1
+263	Cyprus	Germany	0	0
+264	Cyprus	France	7	6
+265	Cyprus	Poland	0	2
+266	Cyprus	Australia	10	5
+267	Cyprus	Serbia	0	0
+268	Cyprus	Lithuania	0	3
+269	Cyprus	Croatia	1	0
+270	Cyprus	Russia	12	10
+271	Cyprus	Spain	0	0
+272	Cyprus	Latvia	0	0
+273	Cyprus	Ukraine	0	7
+274	Cyprus	Malta	6	0
+275	Cyprus	Georgia	0	0
+276	Cyprus	Austria	0	0
+277	Cyprus	United Kingdom	0	0
+278	Cyprus	Armenia	8	8
+279	Czech Republic	Belgium	2	0
+280	Czech Republic	The Netherlands	7	0
+281	Czech Republic	Azerbaijan	0	6
+282	Czech Republic	Hungary	10	3
+283	Czech Republic	Italy	0	0
+284	Czech Republic	Israel	0	0
+285	Czech Republic	Bulgaria	0	5
+286	Czech Republic	Sweden	12	2
+287	Czech Republic	Germany	0	0
+288	Czech Republic	France	5	0
+289	Czech Republic	Poland	0	7
+290	Czech Republic	Australia	0	1
+291	Czech Republic	Cyprus	0	0
+292	Czech Republic	Serbia	0	0
+293	Czech Republic	Lithuania	3	0
+294	Czech Republic	Croatia	8	0
+295	Czech Republic	Russia	0	10
+296	Czech Republic	Spain	0	0
+297	Czech Republic	Latvia	1	0
+298	Czech Republic	Ukraine	0	12
+299	Czech Republic	Malta	6	0
+300	Czech Republic	Georgia	0	0
+301	Czech Republic	Austria	0	4
+302	Czech Republic	United Kingdom	4	0
+303	Czech Republic	Armenia	0	8
+304	Denmark	Belgium	8	8
+305	Denmark	Czech Republic	0	0
+306	Denmark	The Netherlands	7	7
+307	Denmark	Azerbaijan	0	0
+308	Denmark	Hungary	0	0
+309	Denmark	Italy	0	0
+310	Denmark	Israel	2	0
+311	Denmark	Bulgaria	6	0
+312	Denmark	Sweden	4	12
+313	Denmark	Germany	0	0
+314	Denmark	France	0	2
+315	Denmark	Poland	0	5
+316	Denmark	Australia	10	10
+317	Denmark	Cyprus	0	0
+318	Denmark	Serbia	0	0
+319	Denmark	Lithuania	5	6
+320	Denmark	Croatia	0	0
+321	Denmark	Russia	0	4
+322	Denmark	Spain	1	0
+323	Denmark	Latvia	0	0
+324	Denmark	Ukraine	12	3
+325	Denmark	Malta	0	0
+326	Denmark	Georgia	0	0
+327	Denmark	Austria	0	1
+328	Denmark	United Kingdom	3	0
+329	Denmark	Armenia	0	0
+330	Estonia	Belgium	0	0
+331	Estonia	Czech Republic	0	0
+332	Estonia	The Netherlands	6	0
+333	Estonia	Azerbaijan	0	0
+334	Estonia	Hungary	0	0
+335	Estonia	Italy	0	0
+336	Estonia	Israel	0	0
+337	Estonia	Bulgaria	0	0
+338	Estonia	Sweden	12	10
+339	Estonia	Germany	0	0
+340	Estonia	France	1	2
+341	Estonia	Poland	0	1
+342	Estonia	Australia	10	4
+343	Estonia	Cyprus	4	3
+344	Estonia	Serbia	0	0
+345	Estonia	Lithuania	5	5
+346	Estonia	Croatia	0	0
+347	Estonia	Russia	0	12
+348	Estonia	Spain	0	0
+349	Estonia	Latvia	8	7
+350	Estonia	Ukraine	7	8
+351	Estonia	Malta	2	0
+352	Estonia	Georgia	0	0
+353	Estonia	Austria	0	6
+354	Estonia	United Kingdom	3	0
+355	Estonia	Armenia	0	0
+356	F.Y.R. Macedonia	Belgium	4	4
+357	F.Y.R. Macedonia	Czech Republic	0	0
+358	F.Y.R. Macedonia	The Netherlands	2	0
+359	F.Y.R. Macedonia	Azerbaijan	1	0
+360	F.Y.R. Macedonia	Hungary	0	0
+361	F.Y.R. Macedonia	Italy	0	1
+362	F.Y.R. Macedonia	Israel	5	0
+363	F.Y.R. Macedonia	Bulgaria	10	10
+364	F.Y.R. Macedonia	Sweden	0	0
+365	F.Y.R. Macedonia	Germany	0	0
+366	F.Y.R. Macedonia	France	0	0
+367	F.Y.R. Macedonia	Poland	0	2
+368	F.Y.R. Macedonia	Australia	8	3
+369	F.Y.R. Macedonia	Cyprus	0	0
+370	F.Y.R. Macedonia	Serbia	7	12
+371	F.Y.R. Macedonia	Lithuania	0	0
+372	F.Y.R. Macedonia	Croatia	6	5
+373	F.Y.R. Macedonia	Russia	0	8
+374	F.Y.R. Macedonia	Spain	0	0
+375	F.Y.R. Macedonia	Latvia	3	0
+376	F.Y.R. Macedonia	Ukraine	12	6
+377	F.Y.R. Macedonia	Malta	0	0
+378	F.Y.R. Macedonia	Georgia	0	0
+379	F.Y.R. Macedonia	Austria	0	0
+380	F.Y.R. Macedonia	United Kingdom	0	0
+381	F.Y.R. Macedonia	Armenia	0	7
+382	Finland	Belgium	0	0
+383	Finland	Czech Republic	3	0
+384	Finland	The Netherlands	10	0
+385	Finland	Azerbaijan	0	0
+386	Finland	Hungary	0	0
+387	Finland	Italy	2	0
+388	Finland	Israel	7	0
+389	Finland	Bulgaria	0	4
+390	Finland	Sweden	12	10
+391	Finland	Germany	0	0
+392	Finland	France	1	3
+393	Finland	Poland	0	5
+394	Finland	Australia	8	7
+395	Finland	Cyprus	0	1
+396	Finland	Serbia	0	0
+397	Finland	Lithuania	6	0
+398	Finland	Croatia	0	0
+399	Finland	Russia	0	8
+400	Finland	Spain	0	0
+401	Finland	Latvia	0	2
+402	Finland	Ukraine	0	12
+403	Finland	Malta	5	0
+404	Finland	Georgia	0	0
+405	Finland	Austria	4	6
+406	Finland	United Kingdom	0	0
+407	Finland	Armenia	0	0
+408	France	Belgium	0	4
+409	France	Czech Republic	0	0
+410	France	The Netherlands	7	0
+411	France	Azerbaijan	0	0
+412	France	Hungary	0	0
+413	France	Italy	12	0
+414	France	Israel	0	3
+415	France	Bulgaria	10	5
+416	France	Sweden	5	2
+417	France	Germany	0	0
+418	France	Poland	0	7
+419	France	Australia	6	0
+420	France	Cyprus	0	0
+421	France	Serbia	0	0
+422	France	Lithuania	0	0
+423	France	Croatia	0	0
+424	France	Russia	1	6
+425	France	Spain	3	1
+426	France	Latvia	0	0
+427	France	Ukraine	0	10
+428	France	Malta	4	0
+429	France	Georgia	0	0
+430	France	Austria	8	8
+431	France	United Kingdom	0	0
+432	France	Armenia	2	12
+433	Georgia	Belgium	10	0
+434	Georgia	Czech Republic	0	0
+435	Georgia	The Netherlands	0	0
+436	Georgia	Azerbaijan	0	7
+437	Georgia	Hungary	0	2
+438	Georgia	Italy	0	0
+439	Georgia	Israel	3	0
+440	Georgia	Bulgaria	0	3
+441	Georgia	Sweden	6	0
+442	Georgia	Germany	1	0
+443	Georgia	France	4	0
+444	Georgia	Poland	0	4
+445	Georgia	Australia	8	1
+446	Georgia	Cyprus	0	0
+447	Georgia	Serbia	0	0
+448	Georgia	Lithuania	5	5
+449	Georgia	Croatia	2	0
+450	Georgia	Russia	0	8
+451	Georgia	Spain	0	0
+452	Georgia	Latvia	7	6
+453	Georgia	Ukraine	12	10
+454	Georgia	Malta	0	0
+455	Georgia	Austria	0	0
+456	Georgia	United Kingdom	0	0
+457	Georgia	Armenia	0	12
+458	Germany	Belgium	5	0
+459	Germany	Czech Republic	0	0
+460	Germany	The Netherlands	4	3
+461	Germany	Azerbaijan	0	0
+462	Germany	Hungary	0	0
+463	Germany	Italy	3	1
+464	Germany	Israel	12	0
+465	Germany	Bulgaria	0	4
+466	Germany	Sweden	10	8
+467	Germany	France	0	0
+468	Germany	Poland	0	10
+469	Germany	Australia	6	5
+470	Germany	Cyprus	0	0
+471	Germany	Serbia	0	0
+472	Germany	Lithuania	1	0
+473	Germany	Croatia	0	0
+474	Germany	Russia	0	12
+475	Germany	Spain	0	0
+476	Germany	Latvia	2	0
+477	Germany	Ukraine	7	6
+478	Germany	Malta	0	0
+479	Germany	Georgia	8	0
+480	Germany	Austria	0	7
+481	Germany	United Kingdom	0	0
+482	Germany	Armenia	0	2
+483	Greece	Belgium	0	0
+484	Greece	Czech Republic	0	0
+485	Greece	The Netherlands	0	0
+486	Greece	Azerbaijan	1	0
+487	Greece	Hungary	3	2
+488	Greece	Italy	0	0
+489	Greece	Israel	0	0
+490	Greece	Bulgaria	0	7
+491	Greece	Sweden	0	0
+492	Greece	Germany	0	0
+493	Greece	France	6	4
+494	Greece	Poland	0	3
+495	Greece	Australia	7	5
+496	Greece	Cyprus	8	12
+497	Greece	Serbia	0	0
+498	Greece	Lithuania	0	0
+499	Greece	Croatia	0	0
+500	Greece	Russia	12	10
+501	Greece	Spain	0	0
+502	Greece	Latvia	0	0
+503	Greece	Ukraine	2	6
+504	Greece	Malta	4	0
+505	Greece	Georgia	5	0
+506	Greece	Austria	0	1
+507	Greece	United Kingdom	0	0
+508	Greece	Armenia	10	8
+509	Hungary	Belgium	0	0
+510	Hungary	Czech Republic	2	0
+511	Hungary	The Netherlands	6	2
+512	Hungary	Azerbaijan	7	0
+513	Hungary	Italy	0	0
+514	Hungary	Israel	0	0
+515	Hungary	Bulgaria	0	4
+516	Hungary	Sweden	4	7
+517	Hungary	Germany	0	0
+518	Hungary	France	0	1
+519	Hungary	Poland	0	8
+520	Hungary	Australia	12	3
+521	Hungary	Cyprus	0	5
+522	Hungary	Serbia	0	0
+523	Hungary	Lithuania	3	0
+524	Hungary	Croatia	0	0
+525	Hungary	Russia	0	10
+526	Hungary	Spain	5	0
+527	Hungary	Latvia	8	0
+528	Hungary	Ukraine	0	12
+529	Hungary	Malta	10	0
+530	Hungary	Georgia	0	0
+531	Hungary	Austria	0	6
+532	Hungary	United Kingdom	0	0
+533	Hungary	Armenia	1	0
+534	Iceland	Belgium	3	3
+535	Iceland	Czech Republic	5	0
+536	Iceland	The Netherlands	12	6
+537	Iceland	Azerbaijan	0	1
+538	Iceland	Hungary	0	0
+539	Iceland	Italy	0	0
+540	Iceland	Israel	0	0
+541	Iceland	Bulgaria	0	0
+542	Iceland	Sweden	6	12
+543	Iceland	Germany	0	0
+544	Iceland	France	2	5
+545	Iceland	Poland	0	10
+546	Iceland	Australia	10	8
+547	Iceland	Cyprus	0	0
+548	Iceland	Serbia	0	0
+549	Iceland	Lithuania	0	4
+550	Iceland	Croatia	7	0
+551	Iceland	Russia	8	7
+552	Iceland	Spain	0	0
+553	Iceland	Latvia	0	0
+554	Iceland	Ukraine	0	0
+555	Iceland	Malta	4	0
+556	Iceland	Georgia	0	0
+557	Iceland	Austria	1	2
+558	Iceland	United Kingdom	0	0
+559	Iceland	Armenia	0	0
+560	Ireland	Belgium	12	0
+561	Ireland	Czech Republic	2	0
+562	Ireland	The Netherlands	8	0
+563	Ireland	Azerbaijan	0	0
+564	Ireland	Hungary	0	0
+565	Ireland	Italy	6	0
+566	Ireland	Israel	4	0
+567	Ireland	Bulgaria	10	5
+568	Ireland	Sweden	5	2
+569	Ireland	Germany	0	0
+570	Ireland	France	3	0
+571	Ireland	Poland	0	10
+572	Ireland	Australia	0	6
+573	Ireland	Cyprus	0	0
+574	Ireland	Serbia	0	0
+575	Ireland	Lithuania	0	12
+576	Ireland	Croatia	0	0
+577	Ireland	Russia	0	8
+578	Ireland	Spain	0	0
+579	Ireland	Latvia	1	7
+580	Ireland	Ukraine	0	4
+581	Ireland	Malta	0	0
+582	Ireland	Georgia	0	0
+583	Ireland	Austria	0	1
+584	Ireland	United Kingdom	7	3
+585	Ireland	Armenia	0	0
+586	Israel	Belgium	6	1
+587	Israel	Czech Republic	0	0
+588	Israel	The Netherlands	0	0
+589	Israel	Azerbaijan	0	2
+590	Israel	Hungary	0	0
+591	Israel	Italy	0	0
+592	Israel	Bulgaria	7	7
+593	Israel	Sweden	0	0
+594	Israel	Germany	0	0
+595	Israel	France	8	12
+596	Israel	Poland	0	4
+597	Israel	Australia	10	5
+598	Israel	Cyprus	0	0
+599	Israel	Serbia	0	0
+600	Israel	Lithuania	1	0
+601	Israel	Croatia	3	0
+602	Israel	Russia	0	10
+603	Israel	Spain	4	0
+604	Israel	Latvia	5	0
+605	Israel	Ukraine	12	8
+606	Israel	Malta	0	0
+607	Israel	Georgia	0	0
+608	Israel	Austria	0	3
+609	Israel	United Kingdom	0	0
+610	Israel	Armenia	2	6
+611	Italy	Belgium	0	0
+612	Italy	Czech Republic	0	0
+613	Italy	The Netherlands	4	0
+614	Italy	Azerbaijan	0	0
+615	Italy	Hungary	0	0
+616	Italy	Israel	8	0
+617	Italy	Bulgaria	0	7
+618	Italy	Sweden	2	0
+619	Italy	Germany	0	0
+620	Italy	France	7	5
+621	Italy	Poland	0	10
+622	Italy	Australia	6	0
+623	Italy	Cyprus	1	6
+624	Italy	Serbia	0	4
+625	Italy	Lithuania	0	2
+626	Italy	Croatia	0	0
+627	Italy	Russia	0	8
+628	Italy	Spain	12	0
+629	Italy	Latvia	0	0
+630	Italy	Ukraine	10	12
+631	Italy	Malta	5	0
+632	Italy	Georgia	3	3
+633	Italy	Austria	0	0
+634	Italy	United Kingdom	0	0
+635	Italy	Armenia	0	1
+636	Latvia	Belgium	0	0
+637	Latvia	Czech Republic	0	0
+638	Latvia	The Netherlands	3	0
+639	Latvia	Azerbaijan	0	3
+640	Latvia	Hungary	0	0
+641	Latvia	Italy	0	0
+642	Latvia	Israel	2	0
+643	Latvia	Bulgaria	1	1
+644	Latvia	Sweden	8	7
+645	Latvia	Germany	0	0
+646	Latvia	France	0	0
+647	Latvia	Poland	0	5
+648	Latvia	Australia	5	6
+649	Latvia	Cyprus	0	0
+650	Latvia	Serbia	0	0
+651	Latvia	Lithuania	10	8
+652	Latvia	Croatia	0	0
+653	Latvia	Russia	7	12
+654	Latvia	Spain	0	0
+655	Latvia	Ukraine	12	10
+656	Latvia	Malta	4	0
+657	Latvia	Georgia	0	2
+658	Latvia	Austria	0	4
+659	Latvia	United Kingdom	0	0
+660	Latvia	Armenia	6	0
+661	Lithuania	Belgium	5	0
+662	Lithuania	Czech Republic	0	0
+663	Lithuania	The Netherlands	0	0
+664	Lithuania	Azerbaijan	0	0
+665	Lithuania	Hungary	0	2
+666	Lithuania	Italy	0	0
+667	Lithuania	Israel	6	0
+668	Lithuania	Bulgaria	2	0
+669	Lithuania	Sweden	0	7
+670	Lithuania	Germany	0	0
+671	Lithuania	France	1	3
+672	Lithuania	Poland	3	6
+673	Lithuania	Australia	12	5
+674	Lithuania	Cyprus	0	0
+675	Lithuania	Serbia	0	0
+676	Lithuania	Croatia	0	0
+677	Lithuania	Russia	0	8
+678	Lithuania	Spain	0	0
+679	Lithuania	Latvia	7	12
+680	Lithuania	Ukraine	8	10
+681	Lithuania	Malta	0	0
+682	Lithuania	Georgia	10	4
+683	Lithuania	Austria	0	1
+684	Lithuania	United Kingdom	0	0
+685	Lithuania	Armenia	4	0
+686	Malta	Belgium	0	0
+687	Malta	Czech Republic	0	0
+688	Malta	The Netherlands	0	3
+689	Malta	Azerbaijan	0	6
+690	Malta	Hungary	0	5
+691	Malta	Italy	8	7
+692	Malta	Israel	1	0
+693	Malta	Bulgaria	10	8
+694	Malta	Sweden	0	0
+695	Malta	Germany	0	0
+696	Malta	France	6	2
+697	Malta	Poland	0	0
+698	Malta	Australia	3	12
+699	Malta	Cyprus	5	0
+700	Malta	Serbia	0	0
+701	Malta	Lithuania	0	0
+702	Malta	Croatia	0	0
+703	Malta	Russia	4	10
+704	Malta	Spain	2	0
+705	Malta	Latvia	0	0
+706	Malta	Ukraine	0	4
+707	Malta	Georgia	0	0
+708	Malta	Austria	0	0
+709	Malta	United Kingdom	12	1
+710	Malta	Armenia	7	0
+711	Moldova	Belgium	0	0
+712	Moldova	Czech Republic	0	0
+713	Moldova	The Netherlands	0	0
+714	Moldova	Azerbaijan	0	8
+715	Moldova	Hungary	0	0
+716	Moldova	Italy	0	0
+717	Moldova	Israel	0	0
+718	Moldova	Bulgaria	0	2
+719	Moldova	Sweden	6	0
+720	Moldova	Germany	0	0
+721	Moldova	France	0	6
+722	Moldova	Poland	0	0
+723	Moldova	Australia	10	5
+724	Moldova	Cyprus	2	0
+725	Moldova	Serbia	0	0
+726	Moldova	Lithuania	4	3
+727	Moldova	Croatia	1	0
+728	Moldova	Russia	7	12
+729	Moldova	Spain	8	0
+730	Moldova	Latvia	0	1
+731	Moldova	Ukraine	12	10
+732	Moldova	Malta	3	0
+733	Moldova	Georgia	0	0
+734	Moldova	Austria	0	4
+735	Moldova	United Kingdom	0	0
+736	Moldova	Armenia	5	7
+737	Montenegro	Belgium	3	0
+738	Montenegro	Czech Republic	0	0
+739	Montenegro	The Netherlands	0	0
+740	Montenegro	Azerbaijan	0	7
+741	Montenegro	Hungary	7	3
+742	Montenegro	Italy	0	4
+743	Montenegro	Israel	0	0
+744	Montenegro	Bulgaria	2	5
+745	Montenegro	Sweden	0	0
+746	Montenegro	Germany	0	0
+747	Montenegro	France	5	1
+748	Montenegro	Poland	1	0
+749	Montenegro	Australia	4	0
+750	Montenegro	Cyprus	0	0
+751	Montenegro	Serbia	6	12
+752	Montenegro	Lithuania	0	2
+753	Montenegro	Croatia	0	6
+754	Montenegro	Russia	8	10
+755	Montenegro	Spain	0	0
+756	Montenegro	Latvia	0	0
+757	Montenegro	Ukraine	0	8
+758	Montenegro	Malta	12	0
+759	Montenegro	Georgia	0	0
+760	Montenegro	Austria	0	0
+761	Montenegro	United Kingdom	0	0
+762	Montenegro	Armenia	10	0
+763	Norway	Belgium	5	2
+764	Norway	Czech Republic	0	0
+765	Norway	The Netherlands	6	0
+766	Norway	Azerbaijan	0	0
+767	Norway	Hungary	0	0
+768	Norway	Italy	12	0
+769	Norway	Israel	3	0
+770	Norway	Bulgaria	8	5
+771	Norway	Sweden	0	7
+772	Norway	Germany	0	0
+773	Norway	France	0	1
+774	Norway	Poland	1	10
+775	Norway	Australia	10	8
+776	Norway	Cyprus	0	0
+777	Norway	Serbia	0	0
+778	Norway	Lithuania	2	12
+779	Norway	Croatia	0	0
+780	Norway	Russia	0	6
+781	Norway	Spain	7	0
+782	Norway	Latvia	0	3
+783	Norway	Ukraine	4	4
+784	Norway	Malta	0	0
+785	Norway	Georgia	0	0
+786	Norway	Austria	0	0
+787	Norway	United Kingdom	0	0
+788	Norway	Armenia	0	0
+789	Poland	Belgium	0	0
+790	Poland	Czech Republic	4	0
+791	Poland	The Netherlands	0	0
+792	Poland	Azerbaijan	0	0
+793	Poland	Hungary	0	6
+794	Poland	Italy	0	0
+795	Poland	Israel	7	0
+796	Poland	Bulgaria	3	3
+797	Poland	Sweden	0	10
+798	Poland	Germany	0	0
+799	Poland	France	1	0
+800	Poland	Australia	10	7
+801	Poland	Cyprus	0	1
+802	Poland	Serbia	0	0
+803	Poland	Lithuania	2	0
+804	Poland	Croatia	0	0
+805	Poland	Russia	0	8
+806	Poland	Spain	5	0
+807	Poland	Latvia	6	5
+808	Poland	Ukraine	12	12
+809	Poland	Malta	0	0
+810	Poland	Georgia	8	0
+811	Poland	Austria	0	4
+812	Poland	United Kingdom	0	0
+813	Poland	Armenia	0	2
+814	Russia	Belgium	0	0
+815	Russia	Czech Republic	0	0
+816	Russia	The Netherlands	0	0
+817	Russia	Azerbaijan	10	6
+818	Russia	Hungary	1	0
+819	Russia	Italy	0	0
+820	Russia	Israel	0	0
+821	Russia	Bulgaria	0	0
+822	Russia	Sweden	0	2
+823	Russia	Germany	0	0
+824	Russia	France	7	3
+825	Russia	Poland	0	5
+826	Russia	Australia	2	4
+827	Russia	Cyprus	4	7
+828	Russia	Serbia	0	0
+829	Russia	Lithuania	0	0
+830	Russia	Croatia	0	0
+831	Russia	Spain	0	0
+832	Russia	Latvia	3	1
+833	Russia	Ukraine	0	10
+834	Russia	Malta	8	0
+835	Russia	Georgia	5	0
+836	Russia	Austria	0	8
+837	Russia	United Kingdom	6	0
+838	Russia	Armenia	12	12
+839	San Marino	Belgium	0	0
+840	San Marino	Czech Republic	0	0
+841	San Marino	The Netherlands	4	0
+842	San Marino	Azerbaijan	0	0
+843	San Marino	Hungary	2	1
+844	San Marino	Italy	10	0
+845	San Marino	Israel	0	0
+846	San Marino	Bulgaria	0	3
+847	San Marino	Sweden	0	4
+848	San Marino	Germany	0	0
+849	San Marino	France	0	0
+850	San Marino	Poland	0	7
+851	San Marino	Australia	0	5
+852	San Marino	Cyprus	5	0
+853	San Marino	Serbia	0	0
+854	San Marino	Lithuania	0	8
+855	San Marino	Croatia	0	0
+856	San Marino	Russia	7	10
+857	San Marino	Spain	0	0
+858	San Marino	Latvia	0	6
+859	San Marino	Ukraine	12	12
+860	San Marino	Malta	3	0
+861	San Marino	Georgia	6	0
+862	San Marino	Austria	1	0
+863	San Marino	United Kingdom	8	0
+864	San Marino	Armenia	0	2
+865	Serbia	Belgium	0	5
+866	Serbia	Czech Republic	0	0
+867	Serbia	The Netherlands	5	0
+868	Serbia	Azerbaijan	0	0
+869	Serbia	Hungary	0	10
+870	Serbia	Italy	0	0
+871	Serbia	Israel	7	0
+872	Serbia	Bulgaria	4	8
+873	Serbia	Sweden	0	1
+874	Serbia	Germany	0	0
+875	Serbia	France	0	0
+876	Serbia	Poland	0	0
+877	Serbia	Australia	6	6
+878	Serbia	Cyprus	0	3
+879	Serbia	Lithuania	8	0
+880	Serbia	Croatia	0	4
+881	Serbia	Russia	1	12
+882	Serbia	Spain	0	0
+883	Serbia	Latvia	0	0
+884	Serbia	Ukraine	12	7
+885	Serbia	Malta	10	0
+886	Serbia	Georgia	0	0
+887	Serbia	Austria	0	0
+888	Serbia	United Kingdom	2	0
+889	Serbia	Armenia	3	2
+890	Slovenia	Belgium	8	0
+891	Slovenia	Czech Republic	0	0
+892	Slovenia	The Netherlands	1	0
+893	Slovenia	Azerbaijan	0	0
+894	Slovenia	Hungary	3	0
+895	Slovenia	Italy	0	1
+896	Slovenia	Israel	2	0
+897	Slovenia	Bulgaria	10	2
+898	Slovenia	Sweden	0	5
+899	Slovenia	Germany	0	0
+900	Slovenia	France	0	0
+901	Slovenia	Poland	0	4
+902	Slovenia	Australia	6	3
+903	Slovenia	Cyprus	0	0
+904	Slovenia	Serbia	5	12
+905	Slovenia	Lithuania	0	0
+906	Slovenia	Croatia	0	8
+907	Slovenia	Russia	0	10
+908	Slovenia	Spain	0	0
+909	Slovenia	Latvia	7	0
+910	Slovenia	Ukraine	12	7
+911	Slovenia	Malta	0	0
+912	Slovenia	Georgia	0	0
+913	Slovenia	Austria	0	6
+914	Slovenia	United Kingdom	0	0
+915	Slovenia	Armenia	4	0
+916	Spain	Belgium	0	0
+917	Spain	Czech Republic	0	0
+918	Spain	The Netherlands	3	0
+919	Spain	Azerbaijan	2	0
+920	Spain	Hungary	10	0
+921	Spain	Italy	5	3
+922	Spain	Israel	1	0
+923	Spain	Bulgaria	0	12
+924	Spain	Sweden	0	1
+925	Spain	Germany	0	0
+926	Spain	France	7	10
+927	Spain	Poland	0	5
+928	Spain	Australia	8	4
+929	Spain	Cyprus	0	0
+930	Spain	Serbia	0	0
+931	Spain	Lithuania	0	0
+932	Spain	Croatia	0	0
+933	Spain	Russia	4	8
+934	Spain	Latvia	0	0
+935	Spain	Ukraine	0	7
+936	Spain	Malta	6	0
+937	Spain	Georgia	0	0
+938	Spain	Austria	0	2
+939	Spain	United Kingdom	0	0
+940	Spain	Armenia	12	6
+941	Sweden	Belgium	0	0
+942	Sweden	Czech Republic	3	0
+943	Sweden	The Netherlands	5	2
+944	Sweden	Azerbaijan	10	0
+945	Sweden	Hungary	0	0
+946	Sweden	Italy	0	0
+947	Sweden	Israel	0	0
+948	Sweden	Bulgaria	0	4
+949	Sweden	Germany	0	0
+950	Sweden	France	8	3
+951	Sweden	Poland	0	10
+952	Sweden	Australia	12	12
+953	Sweden	Cyprus	0	0
+954	Sweden	Serbia	0	0
+955	Sweden	Lithuania	2	6
+956	Sweden	Croatia	0	0
+957	Sweden	Russia	6	8
+958	Sweden	Spain	1	1
+959	Sweden	Latvia	0	0
+960	Sweden	Ukraine	0	7
+961	Sweden	Malta	7	0
+962	Sweden	Georgia	0	0
+963	Sweden	Austria	0	5
+964	Sweden	United Kingdom	0	0
+965	Sweden	Armenia	4	0
+966	Switzerland	Belgium	10	0
+967	Switzerland	Czech Republic	0	0
+968	Switzerland	The Netherlands	5	0
+969	Switzerland	Azerbaijan	0	0
+970	Switzerland	Hungary	0	0
+971	Switzerland	Italy	2	7
+972	Switzerland	Israel	8	0
+973	Switzerland	Bulgaria	1	0
+974	Switzerland	Sweden	0	0
+975	Switzerland	Germany	0	8
+976	Switzerland	France	0	3
+977	Switzerland	Poland	0	5
+978	Switzerland	Australia	12	1
+979	Switzerland	Cyprus	0	0
+980	Switzerland	Serbia	0	12
+981	Switzerland	Lithuania	7	0
+982	Switzerland	Croatia	0	0
+983	Switzerland	Russia	0	6
+984	Switzerland	Spain	0	2
+985	Switzerland	Latvia	3	0
+986	Switzerland	Ukraine	6	4
+987	Switzerland	Malta	0	0
+988	Switzerland	Georgia	0	0
+989	Switzerland	Austria	4	10
+990	Switzerland	United Kingdom	0	0
+991	Switzerland	Armenia	0	0
+992	The Netherlands	Belgium	4	12
+993	The Netherlands	Czech Republic	0	0
+994	The Netherlands	Azerbaijan	1	0
+995	The Netherlands	Hungary	0	0
+996	The Netherlands	Italy	6	0
+997	The Netherlands	Israel	7	0
+998	The Netherlands	Bulgaria	0	1
+999	The Netherlands	Sweden	10	2
+1000	The Netherlands	Germany	0	0
+1001	The Netherlands	France	5	4
+1002	The Netherlands	Poland	0	10
+1003	The Netherlands	Australia	12	5
+1004	The Netherlands	Cyprus	0	0
+1005	The Netherlands	Serbia	0	0
+1006	The Netherlands	Lithuania	0	0
+1007	The Netherlands	Croatia	0	0
+1008	The Netherlands	Russia	0	3
+1009	The Netherlands	Spain	0	0
+1010	The Netherlands	Latvia	0	0
+1011	The Netherlands	Ukraine	3	7
+1012	The Netherlands	Malta	0	0
+1013	The Netherlands	Georgia	0	0
+1014	The Netherlands	Austria	8	6
+1015	The Netherlands	United Kingdom	0	0
+1016	The Netherlands	Armenia	2	8
+1017	Ukraine	Belgium	10	0
+1018	Ukraine	Czech Republic	0	0
+1019	Ukraine	The Netherlands	0	0
+1020	Ukraine	Azerbaijan	7	10
+1021	Ukraine	Hungary	2	0
+1022	Ukraine	Italy	0	0
+1023	Ukraine	Israel	6	0
+1024	Ukraine	Bulgaria	1	2
+1025	Ukraine	Sweden	4	1
+1026	Ukraine	Germany	0	0
+1027	Ukraine	France	0	0
+1028	Ukraine	Poland	0	8
+1029	Ukraine	Australia	5	4
+1030	Ukraine	Cyprus	0	0
+1031	Ukraine	Serbia	0	0
+1032	Ukraine	Lithuania	12	3
+1033	Ukraine	Croatia	0	0
+1034	Ukraine	Russia	0	12
+1035	Ukraine	Spain	0	0
+1036	Ukraine	Latvia	8	5
+1037	Ukraine	Malta	0	0
+1038	Ukraine	Georgia	3	6
+1039	Ukraine	Austria	0	0
+1040	Ukraine	United Kingdom	0	0
+1041	Ukraine	Armenia	0	7
+1042	United Kingdom	Belgium	0	0
+1043	United Kingdom	Czech Republic	0	0
+1044	United Kingdom	The Netherlands	0	0
+1045	United Kingdom	Azerbaijan	0	0
+1046	United Kingdom	Hungary	0	0
+1047	United Kingdom	Italy	0	0
+1048	United Kingdom	Israel	3	0
+1049	United Kingdom	Bulgaria	5	8
+1050	United Kingdom	Sweden	0	1
+1051	United Kingdom	Germany	0	0
+1052	United Kingdom	France	6	0
+1053	United Kingdom	Poland	0	10
+1054	United Kingdom	Australia	8	6
+1055	United Kingdom	Cyprus	7	2
+1056	United Kingdom	Serbia	2	0
+1057	United Kingdom	Lithuania	4	12
+1058	United Kingdom	Croatia	1	0
+1059	United Kingdom	Russia	0	7
+1060	United Kingdom	Spain	0	4
+1061	United Kingdom	Latvia	0	3
+1062	United Kingdom	Ukraine	10	5
+1063	United Kingdom	Malta	0	0
+1064	United Kingdom	Georgia	12	0
+1065	United Kingdom	Austria	0	0
+1066	United Kingdom	Armenia	0	0
